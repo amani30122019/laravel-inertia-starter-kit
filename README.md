@@ -1,3 +1,12 @@
+## How to use this starter kit
+
+<p>1. clone the repository <i>then</i></p>
+<p>2. <b>In terminal</b> run "composer install" to install all composer packages</p>
+<p>3. <b>In terminal</b> run "npm install" or "yarn install" to install all nodejs packages</p>
+<p>4. Test to run</p>
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
